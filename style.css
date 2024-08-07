@@ -4,11 +4,11 @@ body {
 }
 
 .wrapper {
-	background-image: linear-gradient(#661a83, #f89a3b);
+	background-image: linear-gradient(#c11e38, #220b34);
 	min-height: 100vh;
 	text-align: center;
 	padding: 60px 20px 80px;
-	color: white;
+	color: rgb(255, 255, 255);
 	display: flex;
 	flex-direction: column;
 	justify-content: space-between;
